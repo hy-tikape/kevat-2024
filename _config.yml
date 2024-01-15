@@ -1,0 +1,36 @@
+title: Tietokantojen perusteet
+subtitle: kevät 2024
+lang: fi # Or fi for Finnish
+baseurl: "/kevat-2024"
+url: "https://tikape.mooc.fi"
+# Uncomment to change the theme color:
+# theme-color: '#60a6ec'
+
+remote_theme: ollpu/jekyll-course-theme@v1
+
+markdown: kramdown
+highlighter: rouge
+kramdown:
+  input: GFM
+  # Uncomment for Finnish quotes:
+  # smart_quotes: rsquo,rsquo,rdquo,rdquo
+
+permalink: /:title/
+
+# If you want a collection of pages for course material:
+collections:
+  # In Finnish you might want to write e.g. "materiaali:" instead.
+  material:
+    output: true
+    permalink: /:title/
+
+# Uncomment to hide the section submenus in navigation
+# for pages other than the current one:
+# hide_other_section_menus: true
+
+defaults:
+  -
+    scope:
+      path: ""
+    values:
+      layout: "default"
