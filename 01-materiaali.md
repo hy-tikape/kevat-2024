@@ -7,7 +7,7 @@ permalink: /materiaali
 
 Tämän sivuston verkkomateriaali riittää kurssin suorittamiseen. Materiaalin tekijä on Antti Laaksonen ja löydät materiaalin lähdekoodin [GitHubista](https://github.com/hy-tikape/kevat-2024).
 
-Voit myös katsoa [kaiken materiaalin](../kaikki) samalla sivulla.
+Voit myös katsoa [kaiken materiaalin](kaikki) samalla sivulla.
 
 Tietokannan käyttäjälle tärkeä lähde ovat tietokantojen dokumentaatiot, joissa kerrotaan tarkasti niiden ominaisuuksista:
 
